@@ -10,7 +10,7 @@ File trapezoidal.f95 is the main program to run the trapezoidal integration. In 
   - Final Boundary = 0.8
   - Data Length = 100
  
- For this example, the result of trapezoidal integration is 1.64187694 (numerically). The result you can find in figure trapezoidal_plot.png
+ For this example, the result of trapezoidal integration is 1.64187694 (numerically). After you run the program, the output file "trapz.txt" will be produced. This file is used to plot the result using plot_trapezoidal.m. Finally, you can find in figure trapezoidal_plot.png as the result.
  # Contact
  For more information, email: auliakhalqillah.mail@gmail.com
  # Material Source
