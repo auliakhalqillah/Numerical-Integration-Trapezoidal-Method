@@ -1,5 +1,5 @@
 # Trapezoidal-Integration-Method
-Trapezoidal integration method is one of the Newton-Cotes integration methods to solve integration problem numerically. The trapezoidal methos has been implemented in Fortran 95 program. So, make sure you have Fortran compiler in your computer already.
+A trapezoidal integration method is one of the Newton-Cotes integration methods to solve integration problem numerically. The trapezoidal method has been implemented in Fortran 95 program. So, make sure you have Fortran compiler in your computer already.
 # The Package
 There are two files in this package:
   1. trapezoidal.f95
