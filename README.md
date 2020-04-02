@@ -1,4 +1,4 @@
-# Trapezoidal-Integration-Method
+# Multiple Trapezoidal Integration Method
 A trapezoidal integration method is one of the Newton-Cotes integration methods to solve integration problem numerically. The trapezoidal method has been implemented in Fortran 95 program. So, make sure you have Fortran compiler in your computer already.
 # The Package
 There are two files in this package:
@@ -12,6 +12,6 @@ File trapezoidal.f95 is the main program to run the trapezoidal integration. In 
  
  For this example, the result of trapezoidal integration is 1.64187694 (numerically). After you run the program, the output file "trapz.txt" will be produced. This file is used to plot the result using plot_trapezoidal.m. Finally, you can find in figure trapezoidal_plot.png as the result.
  # Contact
- For more information, email: auliakhalqillah.mail@gmail.com
+Email: auliakhalqillah.mail@gmail.com
  # Material Source
-Steven C. Chapra and Raymond P. Canale, Numerical Methods for Engineers, Sixth Edition
+[Julan Hernadi,2012,Matematika Numerik dengan Implementasi Matlab](http://andipublisher.com/produk-1012004497-matematika-numerik-dengan-implementasi-m.html)
